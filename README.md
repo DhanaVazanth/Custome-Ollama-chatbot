@@ -1,8 +1,8 @@
 # 🤖 Ollama-Based AI Avatar Customizer
 
-Create, customize, and interact with your own AI avatars using [Ollama](https://ollama.com/) and a Streamlit-powered UI. This project allows you to define personalities, system prompts, and generation parameters, and deploy custom LLM-based avatars with ease.
+<img align="center" height = 350 alt="Coding" width="800" src="https://cdn.prod.website-files.com/675151245f2993547dbd5046/67a37a15e0a60b821828f669_Banner%201%20(1).webp">
 
-![Ollama Avatar Creator Demo](https://crosslabcollab.wordpress.com/wp-content/uploads/2014/03/tumblr_n2mbj6nw821qkjjfoo1_400.gif)
+Create, customize, and interact with your own AI avatars using [Ollama](https://ollama.com/) and a Streamlit-powered UI. This project allows you to define personalities, system prompts, and generation parameters, and deploy custom LLM-based avatars with ease.
 
 ---
 
